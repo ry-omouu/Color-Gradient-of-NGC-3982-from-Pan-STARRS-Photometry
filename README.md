@@ -7,5 +7,5 @@
  consistent with older stars dominating the nucleus and ongoing star formation in the disk. 
  These results highlight the bulge-disk structure and stellar population gradients present in the galaxy.
 
-author's note: this project was made by an unsupervised undergraduate student for fun and out of curiosity, i highly discourage anyone from using the results i
-got as reference to their work :)
+author's note: this project was made by an unsupervised undergraduate student with the help of chatgpt for fun and out of curiosity, i highly discourage anyone 
+from using the results i got as reference to their work :)
